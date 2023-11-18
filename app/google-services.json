@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107705786224",
+    "project_id": "text-detector-64cf7",
+    "storage_bucket": "text-detector-64cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107705786224:android:c37e85ba1ac95aeecdf9b5",
+        "android_client_info": {
+          "package_name": "com.example.aadhaartextextractor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvBhlkMTdCi4z03OxIz-PUTFOE9X260Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
